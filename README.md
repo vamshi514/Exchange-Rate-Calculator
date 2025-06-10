@@ -4,4 +4,4 @@ The Exchange Rate Calculator is a simple web-based project built using HTML, CSS
 The interface is designed with HTML and styled using CSS to make it user-friendly. The main functionality is handled by JavaScript, which dynamically fetches exchange rates from an online API and performs the currency conversion based on user input.
 
 
-You can access this website here:http://127.0.0.1:5500/index.html
+You can access this website here:file:///C:/Users/vamsh/Desktop/exchange%20cal/index.html
